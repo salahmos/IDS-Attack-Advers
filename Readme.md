@@ -6,4 +6,4 @@
     pip install -r requirement.txt
 
 #### Step 02:
-    shutdown your pc
+    
