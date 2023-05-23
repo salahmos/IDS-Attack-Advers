@@ -3,7 +3,7 @@
 ### Setup this project
 
 #### Step 01:
-    pip install -r requirement.txt
-
+    create new environment "in the file requirement.txt"
 #### Step 02:
+
     
